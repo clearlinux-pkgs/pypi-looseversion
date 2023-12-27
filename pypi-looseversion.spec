@@ -7,7 +7,7 @@
 #
 Name     : pypi-looseversion
 Version  : 1.3.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/64/7e/f13dc08e0712cc2eac8e56c7909ce2ac280dbffef2ffd87bd5277ce9d58b/looseversion-1.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/64/7e/f13dc08e0712cc2eac8e56c7909ce2ac280dbffef2ffd87bd5277ce9d58b/looseversion-1.3.0.tar.gz
 Summary  : Version numbering for anarchists and software realists
